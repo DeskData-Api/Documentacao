@@ -39,9 +39,9 @@
 
 ## 📡 Repositórios
 
-- → [Serviço Backend]()
-- → [Serviço Frontend Web]()
-- → [Serviço de IA]()
+- → [Serviço Backend](https://github.com/DeskData-Api/Backend)
+- → [Serviço Frontend Web](https://github.com/DeskData-Api/Frontend-Web)
+- → [Serviço de IA](https://github.com/DeskData-Api/Python-Services)
 
 → [Voltar ao topo](#topo)
 

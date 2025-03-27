@@ -32,7 +32,7 @@ A aplicação é montada por 3 microsserviços principais, o Backend construído
 |:-----:|:----------:|:-----:|
 | 1 | Serviço para Tratamento de dados | ✔️ |
 | 1 | Interface web | ✔️ |
-| 1 | Funcionalidade de geração de dashboards de insghts diarios | ✔️ |
+| 1 | Funcionalidade de dashboards com insights diarios | ✔️ |
 | 1 | Serviço de processamento de informações com linguagem natural | ❗ |
 | 1 | Aplciar análise de sentimentos para geração de dashboards| ❗ |
 | 1 | Funcionalidade de busca semântica e prompt | ❗ |

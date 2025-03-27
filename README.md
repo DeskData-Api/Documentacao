@@ -1,19 +1,28 @@
 <h1 id="topo" align="center"> 🖥️ DeskData 🖥️ </h1>
 
-## 🗺️  Sobre o Projeto
+## 📓  Sobre o Projeto
+
+O projeto consiste num sistema cujo intuito é facilitar e automatizar a obtenção de informações em um Atendimento Inteligente, de modo a reduzir a carga de trabalho manual e aumentar a eficiência do atendimento, bem como possibilitar a tomada de decisões a partir da análise desses dados.
+
+Serviços de atendimento inteligente geram grandes quantidades de dados devido às interações entre as entidades. Com esse sistema, será possível não só organizar essas infromações, mas também, analisá-las e torná-las úteis através de insights que garantirão uma melhor eficácia para a tomada de decisões do negócio.
+
+A aplicação é montada por 3 microsserviços principais, o Backend construído em typescript, o Frontend, também em typescript e o serviço de IA construído em python.
 
 <span id="entregas">
-
+<br>
+  
 ## 🔨 Entregas
 
 | Sprint | Início | Fim | Status | Relatório da Sprint |
 |:--:|:----------:|:----------:|:------------:|:-------------:|
-| 01 | 10/03/2025 | 30/03/2025 | 🏗️ Em andamento |  |
+| 01 | 10/03/2025 | 30/03/2025 | 🏗️ Em andamento |  [Relatório](https://github.com/DeskData-Api/Documentacao/blob/main/sprints/sprint1.md)|
 | 02 | 07/04/2025 | 27/04/2025 | 🚧 Bloqueado |  |
 | 03 | 05/05/2025 | 25/05/202 | 🚧 Bloqueado |  |
 
 
 → [Voltar ao topo](#topo)
+
+<br>
 
 ## 📝 Backlog do Produto
 
@@ -37,6 +46,8 @@
 
 </div>
 
+<br>
+
 ## 📡 Repositórios
 
 - → [Serviço Backend](https://github.com/DeskData-Api/Backend)
@@ -44,6 +55,8 @@
 - → [Serviço de IA](https://github.com/DeskData-Api/Python-Services)
 
 → [Voltar ao topo](#topo)
+
+<br>
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -64,6 +77,8 @@
 → [Voltar ao topo](#topo)
 
 <span id="equipe">
+
+<br>
 
 ## 🧑‍💻 Colaboradores
 

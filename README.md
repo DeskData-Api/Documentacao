@@ -94,10 +94,16 @@ A aplicação é montada por 3 microsserviços principais, o Backend construído
 
 → [Voltar ao topo](#topo)
 
+<br>
+
 ## 📑 Documentação específica:
 
+ - [Arquitetura do Sistema](https://github.com/DeskData-Api/Documentacao/blob/main/docs/Arquitetura%20do%20sistema.pdf)
 
+ - [Manual de Uso do Sistema](https://github.com/DeskData-Api/Documentacao/blob/main/docs/Manual%20do%20sistema.pdf)
 
+→ [Voltar ao topo](#topo)
+<br>
 <span id="equipe">
 
 <br>

@@ -48,6 +48,24 @@ A aplicação é montada por 3 microsserviços principais, o Backend construído
 
 <br>
 
+## 🗺️ BPMN do projeto
+
+![image](https://github.com/user-attachments/assets/7dc3be08-8150-4492-8188-63f4fd065a59)
+
+
+<br>
+
+## 🪧 Fluxo do sistema
+
+<div align="center" width="100" height="100">
+  
+![image](https://github.com/user-attachments/assets/b71f65eb-fee4-481b-80c3-819988170c80)
+
+</div>
+
+<br>
+
+
 ## 📡 Repositórios
 
 - → [Serviço Backend](https://github.com/DeskData-Api/Backend)
@@ -75,6 +93,10 @@ A aplicação é montada por 3 microsserviços principais, o Backend construído
 
 
 → [Voltar ao topo](#topo)
+
+## 📑 Documentação específica:
+
+
 
 <span id="equipe">
 

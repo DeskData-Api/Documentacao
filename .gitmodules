@@ -1,0 +1,9 @@
+[submodule "Python-Services"]
+	path = Python-Services
+	url = https://github.com/DeskData-Api/Python-Services.git
+[submodule "Frontend-Web"]
+	path = Frontend-Web
+	url = https://github.com/DeskData-Api/Frontend-Web.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/DeskData-Api/Backend.git

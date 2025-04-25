@@ -51,3 +51,6 @@ A Sprint 1 teve como objetivo implementar as bases do sistema DeskData, focando 
 ---
 
 **📅 Próxima Sprint:** Foco na implementação completa das funcionalidades de PLN, análise de sentimentos e otimização dos dashboards.
+
+--- 
+** Sobre a Equipe: ** Para documentação do processo da equipe, o resumo da Retrospectiva da Sprint 1, com foco no desempenho da equipe está disponível [aqui](/docs/SCRUM-Retrospective_%20Sprint%201-DeskData.pdf)

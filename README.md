@@ -17,7 +17,7 @@ A aplicação é montada por 3 microsserviços principais, o Backend construído
 | :----: | :--------: | :--------: | :---------: | :------------------------------------------------------------------------------------: |
 |   01   | 10/03/2025 | 30/03/2025 | ✅ Concluída | [Relatório](sprints/sprint1.md) |
 |   02   | 07/04/2025 | 27/04/2025 | ✅ Concluída |      [Relatório](sprints/sprint2.md)                                                                               |
-|   03   | 05/05/2025 | 25/05/202  | 🚧 Bloqueado |                                                                                        |
+|   03   | 05/05/2025 | 25/05/202  | 🏗️ Em andamento |                                                                                        |
 
 
 → [Voltar ao topo](#topo)

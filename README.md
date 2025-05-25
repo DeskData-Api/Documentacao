@@ -15,7 +15,7 @@ O projeto DeskData facilita e automatiza a obtenção de informações em Atendi
 | :----: | :--------: | :-------: | :----------------: | :----------------------------: |
 |   01   | 10/03/2025 | 30/03/2025 | ✅ Concluída       | [Relatório](sprints/sprint1.md) |
 |   02   | 07/04/2025 | 27/04/2025 | ✅ Concluída       | [Relatório](sprints/sprint2.md) |
-|   03   | 05/05/2025 | 25/05/2025 | 🏗️ Em andamento |                              |
+|   03   | 05/05/2025 | 25/05/2025 | ✅ Concluída       | [Relatório](sprints/sprint3.md) |
 
 [Voltar ao topo](#topo)
 
@@ -32,12 +32,11 @@ O projeto DeskData facilita e automatiza a obtenção de informações em Atendi
 |   2    | Serviço de Processamento de Informações com Linguagem Natural  | ✔️ |
 |   2    | Pré-processamento de Dados Não Estruturados                    | ✔️ |
 |   2    | Gráficos de Similaridades entre Chamados                       | ✔️ |
-|   2    | Histórico de Processamento de Chamados                         | ⚠️ |
+|   2    | Histórico de Processamento de Chamados                         |✔️ |
 |   2    | Padronizações Visuais (UX/UI)                                  | ✔️ |
 |   3    | Funcionalidade de Busca Semântica                              | ❗ |
 |   3    | Funcionalidade de Sumarização Automática                       | ❗ |
-|   3    | Cadastro de Usuários                                           | ❗ |
-|   3    | Banco de Dados de Usuários                                     | ❗ |
+|   3    | Cadastro de Usuários                                           | ✔️ |
 |   3    | Não Funcional - Adequação à LGPD                               | ❗ |
 |   3    | Não Funcional - Garantia de Escalabilidade (Testes)            | ❗ |
 |   3    | Não Funcional - Remoção Correta de Dados Pessoais              | ❗ |

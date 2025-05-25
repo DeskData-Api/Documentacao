@@ -34,12 +34,9 @@ O projeto DeskData facilita e automatiza a obtenção de informações em Atendi
 |   2    | Gráficos de Similaridades entre Chamados                       | ✔️ |
 |   2    | Histórico de Processamento de Chamados                         |✔️ |
 |   2    | Padronizações Visuais (UX/UI)                                  | ✔️ |
-|   3    | Funcionalidade de Busca Semântica                              | ❗ |
-|   3    | Funcionalidade de Sumarização Automática                       | ❗ |
+|   3    | Funcionalidade de Busca Semântica                              | ✔️ |
+|   3    | Funcionalidade de Sumarização Automática                       | ✔️ |
 |   3    | Cadastro de Usuários                                           | ✔️ |
-|   3    | Não Funcional - Adequação à LGPD                               | ❗ |
-|   3    | Não Funcional - Garantia de Escalabilidade (Testes)            | ❗ |
-|   3    | Não Funcional - Remoção Correta de Dados Pessoais              | ❗ |
 
 **Legenda:**
 - ✔️ Concluído
